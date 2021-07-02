@@ -5,6 +5,7 @@ public class EmployeeDetails {
 		
 		System.out.println("Java");
 		System.out.println("phyton");
+		System.out.println("selenium");
 		
 	}
 
